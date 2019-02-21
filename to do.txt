@@ -1,0 +1,8 @@
+do global variables need to be used?
+Improve error handling in parsing.c
+Add math mode functionality
+Add ability to start processes
+Add ability to set an active directory
+Add ability to change directories
+
+DOCUMENT CODE!
